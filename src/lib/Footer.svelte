@@ -1,4 +1,4 @@
-<div class="flex justify-center w-screen p-7 bg-gray-200">
+<div class="flex justify-center w-screen p-7 bg-gray-200" w-dark="bg-gray-600 text-gray-500">
   <p>
     A clone of
     <a class="underline text-indigo-500" href="https://prakriti-dosha.netlify.app/">
