@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Weight",
+    "vata": "Usually thin, often difficult to put on weight, visible ribs, weight can vary",
+    "pitta": "Medium build, good muscle tone",
+    "kapha": "Larger, difficult to lose weight, heavy bones"
+  },
+  {
+    "title": "Skin",
+    "vata": "Dry, cool, rough, thin, dull",
+    "pitta": "Oily, smooth, warm, freckles & moles, rosy or copper. sunburns easily",
+    "kapha": "Oily, cool, pale, thick, damp"
+  },
+  {
+    "title": "Hair",
+    "vata": "Thin, kinky, dry, brittle",
+    "pitta": "Reddish tinge, oily, early receding or balding, graying medium thickness",
+    "kapha": "Thick, oily, wavy, luxurious"
+  },
+
+  {
+    "title": "Eyes",
+    "vata": "Smaller, scanty lashes, white part looks, a bit gray, nervous, blinking",
+    "pitta": "Piercing, intense, light sensitive, white part often reddish or yellow",
+    "kapha": "Larger, calm, thick lashes, beautiful, white part clear & white"
+  },
+
+  {
+    "title": "Teeth & Gums",
+    "vata": "Too many or not enough teeth, irregular, gaps, overcrowded, receding gums",
+    "pitta": "Moderate size, teeth can yellow, gums bleed easily",
+    "kapha": "Large white, healthy, nicely formed"
+  },
+
+  {
+    "title": "Joints",
+    "vata": "Proment, stiff, crack easily",
+    "pitta": "Loose, moderate sized",
+    "kapha": "Larger, firm"
+  },
+
+  {
+    "title": "Circulation",
+    "vata": "Variable to poor (eg: cold hands & feet)",
+    "pitta": "Good, strong, red nails",
+    "kapha": "Moderate"
+  },
+
+  {
+    "title": "Appetite",
+    "vata": "Irregular, variable, skips meals",
+    "pitta": "Strong to excessive",
+    "kapha": "Steady but constant"
+  },
+  {
+    "title": "Sweat",
+    "vata": "Minimal, not a strong odor",
+    "pitta": "Profuse, strong odor",
+    "kapha": "Present moderate odor"
+  },
+  {
+    "title": "Stool",
+    "vata": "Irregular; not always daily, constipated, hard, little pieces, gas",
+    "pitta": "Regular; daily + soft, loose, burns, can be yellowish or greenish",
+    "kapha": "Large well formed, oily, regular, but not too frequent"
+  },
+  {
+    "title": "Thirst",
+    "vata": "Scanty, irregular",
+    "pitta": "Strong, excessive",
+    "kapha": "Moderate"
+  },
+  {
+    "title": "Nose",
+    "vata": "Deviated, septum, irregular",
+    "pitta": "Longer, pointed, tip may be red, sharp",
+    "kapha": "Wider, rounder, shorter, thicker, fleshy"
+  },
+  { "title": "Neck", "vata": "Thin, fine, long", "pitta": "Medium", "kapha": "Wide, stronger" },
+  {
+    "title": "Emotions",
+    "vata": "Enthusiastic, fearful, tends to worry",
+    "pitta": "Courageous, intense, quick to anger",
+    "kapha": "Calm, can be over-attached & posseive, slow to anger"
+  },
+  {
+    "title": "Temperament",
+    "vata": "Variable, changeable, excitable, creative, sociable, makes friends easily",
+    "pitta": "Motivated, competitive, driven, impatient, controlling, likes to interact for a purpose",
+    "kapha": "Happy & easy going, can be lazy reserved"
+  },
+  {
+    "title": "Speech",
+    "vata": "Fast, frequent, higher-pitched, can go on tangents",
+    "pitta": "Good orators, articulate, can be sharp, argumentative, medium tone",
+    "kapha": "Slower, silent, methodical, deeper voiced"
+  },
+  {
+    "title": "Mind",
+    "vata": "Very quick, adaptable, curious, restless, can lose interest quickly",
+    "pitta": "Sharp intellect, penetrating, critical",
+    "kapha": "Slower to respond, lethargic"
+  },
+  {
+    "title": "Faith",
+    "vata": "Erratic, variable",
+    "pitta": "Strong, determined, possible fanatic",
+    "kapha": "Steady, slow to change, consisten"
+  },
+  {
+    "title": "Memory",
+    "vata": "Quick but, absent-minded, learns & forgets easily",
+    "pitta": "Sharp, clear",
+    "kapha": "Slower to grasp initial idea but once remembers does not forget easily"
+  },
+  {
+    "title": "Sleep",
+    "vata": "Light, poor, disturbed, insomnia",
+    "pitta": "Medium but satisfying",
+    "kapha": "Heavy to excessive"
+  },
+  {
+    "title": "Response to Stress",
+    "vata": "Fear, anxiety, mind spinning",
+    "pitta": "Anger, jealousy, feelings of hate",
+    "kapha": "Withdrawn, greedy, possessive"
+  }
+]
